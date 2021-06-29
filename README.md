@@ -1,8 +1,8 @@
 ### Data Preparation Codes
 
 #### This repository is a collection of both basic code templates for Data Preparation
-
-##### You are free to for this repository
+#### All codes are from the practical exercises I did from the Data Science Infinity Program
+#### You are free to fork this repository
 
 ### ML Data Preparation Templates:
 ##### 1. Handling Missing Values with Pandas
