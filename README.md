@@ -1,7 +1,7 @@
 ## Data Preparation Codes
 
-#### This repository is a collection of both basic code templates for Data Preparation
-#### All codes are from the practical exercises I did from the Data Science Infinity Program
+#### This repository is a collection of basic code templates for Data Preparation
+#### All codes I am sharing are from the practical exercises I did from the Data Science Infinity Program
 #### You are free to fork this repository
 
 ## ML Data Preparation Templates:
