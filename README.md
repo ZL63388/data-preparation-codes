@@ -1,4 +1,4 @@
-### Data Preparation Codes
+## Data Preparation Codes
 
 #### This repository is a collection of both basic code templates for Data Preparation
 #### All codes are from the practical exercises I did from the Data Science Infinity Program
