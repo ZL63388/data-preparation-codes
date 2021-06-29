@@ -1,6 +1,6 @@
 ### Data Preparation Codes
 
-#### This repository is a collection of both basic and advanced Machine Learning code templates for Data Preparation
+#### This repository is a collection of both basic code templates for Data Preparation
 
 ##### You are free to for this repository
 
