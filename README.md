@@ -4,7 +4,7 @@
 #### All codes are from the practical exercises I did from the Data Science Infinity Program
 #### You are free to fork this repository
 
-### ML Data Preparation Templates:
+## ML Data Preparation Templates:
 ##### 1. Handling Missing Values with Pandas
 ##### 2. Handling Missing Values with SimpleImputer
 ##### 3. Handling Missing Values with KNNImputer
